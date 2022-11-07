@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
  
- <img align="center" src=(https://github-readme-stats.vercel.app/api?username=anaschaouki&theme=aura&align=center)](https://github.com/anuraghazra/github-readme-stats)/>
+ <img align="center" src= "(https://github-readme-stats.vercel.app/api?username=anaschaouki&theme=aura&align=center)](https://github.com/anuraghazra/github-readme-stats)"/>
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=anaschaouki&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 
