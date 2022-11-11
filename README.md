@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-<a align="center"href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/anchaouk" alt="anchaouk's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img align="center"src="https://badge.mediaplus.ma/darkblue/anchaouk" alt="anchaouk's 42 stats" /></a>
  
  ![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaschaouki&theme=aura&align=right)
 
