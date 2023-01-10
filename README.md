@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-![snake gif](https://raw.githubusercontent.com/anaschaouki/anaschaouki/a3bf2f0535f18ada1cd7865c21796c074e8a9d67/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/anaschaouki/anaschaouki/blob/output/github-contribution-grid-snake.gif)
 <!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/anchaouk" alt="anchaouk's 42 stats" /></a> -->
  
  ![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaschaouki&theme=aura&align=right)
