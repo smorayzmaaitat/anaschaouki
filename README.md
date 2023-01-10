@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello+there)](https://git.io/typing-svg)
 
-![snake gif](https://github.com/anaschaouki/anaschaouki/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/anaschaouki/anaschaouki/blob/output/github-contribution-grid-snake-dark.svg)
  
  ![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaschaouki&theme=aura&align=right)
  
