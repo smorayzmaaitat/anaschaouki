@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello+there)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&width=435&lines=hello+there;welcome+!)](https://git.io/typing-svg)
 
 ![snake gif](https://github.com/anaschaouki/anaschaouki/blob/output/github-contribution-grid-snake-dark.svg)
  
- ![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaschaouki&theme=aura&align=right)
+<!--  ![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaschaouki&theme=aura&align=right) -->
  
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaschaouki&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaschaouki&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=anaschaouki&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 
