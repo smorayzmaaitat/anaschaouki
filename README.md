@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello there+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello)](https://git.io/typing-svg)
 
 ![snake gif](https://github.com/anaschaouki/anaschaouki/output/github-contribution-grid-snake.gif)
  
