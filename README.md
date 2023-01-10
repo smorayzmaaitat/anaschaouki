@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
-![snake gif](https://github.com/anaschaouki/anaschaouki/blob/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/anaschaouki/anaschaouki/output/github-contribution-grid-snake.gif)
+
 <!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/anchaouk" alt="anchaouk's 42 stats" /></a> -->
  
  ![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaschaouki&theme=aura&align=right)
