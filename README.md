@@ -1,8 +1,6 @@
-<h1 align="center">Hi there 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello there+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 ![snake gif](https://github.com/anaschaouki/anaschaouki/output/github-contribution-grid-snake.gif)
-
-<!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/anchaouk" alt="anchaouk's 42 stats" /></a> -->
  
  ![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaschaouki&theme=aura&align=right)
  
