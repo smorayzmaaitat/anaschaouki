@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&width=435&lines=hello+there;welcome+!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18CA30&center=true&width=435&lines=hello+world" alt="Typing SVG" /></a>
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&width=435&lines=hello+there;welcome+!)](https://git.io/typing-svg) -->
 
 ![snake gif](https://github.com/anaschaouki/anaschaouki/blob/output/github-contribution-grid-snake.svg)
  
